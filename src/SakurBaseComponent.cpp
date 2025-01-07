@@ -97,45 +97,4 @@ void SakurBaseComponent::lightUPTheLED()
     this->conditionLight ( 1, 0, 100 );
     this->conditionLight ( 0, 0, 50 );
     this->conditionLight ( 1, 0, 100 );
-
-/*
-  this->conditionLight ( 0, 10, 1500 );
-  this->conditionLight ( 1, 0, 50 );
-  this->conditionLight ( 0, 100, 250 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 100 );
-  this->conditionLight ( 0, 0, 100 );
-  this->conditionLight ( 1, 0, 1000 );
-  this->conditionLight ( 0, 10, 1500 );
-  this->conditionLight ( 1, 0, 50 );
-  */
 }

@@ -10,9 +10,9 @@ SakurSensorLDR sensorLDR;
 SakurSensorSOIL sensorSOIL;
 
 /* Prototipe  */
-void displayAllDataSensor ();
 void setupComponent ();
 void loadingAllSensorData ();
+void displayAllDataSensor ();
 
 /* Implementasi */
 void setupComponent ()

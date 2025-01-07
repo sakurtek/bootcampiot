@@ -9,12 +9,12 @@
 
 /* definisi komponen SHT20 */
 #define BOUNDRATESHT20  9600 // boundrate untuk SHT20
-#define PIN_RX          16 
-#define PIN_TX          17
+#define PIN_RX          16   // saya tidak tahu pin yang mana karena belum dapat info jadi sya coba" aja
+#define PIN_TX          17   // begitu juga yang ini
 
 /* definisi Sensor LDR */
-#define PIN_LDR         14
+#define PIN_LDR         14    // begitu juga yang ini, saya tidak ada info.
 
 /* definei pin sensor SOIL MOISTURE */
 #define BOUNDRATESOIL   9600
-#define PIN_SOIL        34
+#define PIN_SOIL        34    // ini juga sya tidak ada info jika nomor pin ini yg di pakai

@@ -1,6 +1,7 @@
 /* 
-  Main function for my project 
-  MyProject Bootcamp Session 3: 
+  Fungsi utama untuk Project Smart Farming
+  Final Project yang dikembangkan dari Tutorial Edspert.Id
+  BootCamp IoT Sesion 3:
   - Pemeriksaan Suhu dan Kelembapan udara
   - Sensor LDR
   - Sensor Soil Moisture

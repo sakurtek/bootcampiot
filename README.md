@@ -5,7 +5,7 @@ Kode program ditulis dengan VSCode menggunakan PlatformIO
 
 Pengaturan pada platformio.ini
 
-[env:nodemcu-32s]
+[env:nodemcu-32s]\n
 platform    = espressif32
 board       = nodemcu-32s
 framework   = arduino
